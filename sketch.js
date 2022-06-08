@@ -39,7 +39,7 @@ function setup(){
   
     forest = createSprite(200,200)
     forest.addImage("forest",forestimg)
-    forest.velocityX = -4
+    forest.velocityX = -6
 
     
     zombie1 = createSprite(100,windowHeight - 250)
